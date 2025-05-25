@@ -4,5 +4,17 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "description": "A simple React to-do list app that persists your tasks using the browser's local storage.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecotune-hub/Latest-CRM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecotune-hub/Latest-CRM/issues"
+  },
+  "homepage": "https://github.com/ecotune-hub/Latest-CRM#readme"
 }
